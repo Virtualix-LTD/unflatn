@@ -7,8 +7,7 @@
     "test": "NODE_ENV=test node test | tap-difflet && vtest test | tap-difflet && standard",
     "cover": "istanbul cover --report none --print detail test/index.js",
     "view-cover": "istanbul report html && open ./coverage/index.html",
-    "dev": "nodemon test | tap-difflet",
-    "travis": "npm run cover -s && istanbul report lcov && ((cat coverage/lcov.info | coveralls) || exit 0)"
+    "dev": "nodemon test | tap-difflet"
   },
   "repository": {
     "type": "git",
@@ -39,13 +38,10 @@
   },
   "engines": {},
   "devDependencies": {
-    "coveralls": "^2.11.9",
-    "ducktape": "^1.0.0",
     "istanbul": "^0.4.4",
-    "nodemon": "^1.9.1",
-    "standard": "^8.1.0",
-    "tap-difflet": "0.6.0",
-    "tape": "4.4.0"
+    "nodemon": "^3.1.10",
+    "tap-difflet": "^0.7.2",
+    "tape": "^5.9.0"
   },
   "browserify": {
     "transform": [
