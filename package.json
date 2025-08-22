@@ -12,19 +12,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vigour-io/unflatten.git"
+    "url": "git+https://github.com/aklin/unflatten"
   },
   "keywords": [
     "flatten",
     "unflatten"
   ],
-  "author": "Vigour.io <dev@vigour.io>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vigour-io/unflatten/issues"
+    "url": "https://github.com/aklin/unflatten/issues"
   },
-  "homepage": "https://github.com/vigour-io/unflatten#readme",
+  "homepage": "https://github.com/aklin/unflatten#readme",
   "contributors": [
+    "Tony Klinakis <aklin@users.noreply.github.com>",
+    {
+      "name": "Timothee Desurmont",
+      "url": "https://github.com/Sampaguitas"
+    },
     "Jim De Beer <jim@vigour.io>",
     "Shawn Inder <shawn@vigour.io>",
     "Michael Hernandez <michael.hernandez1988@gmail.com>"
