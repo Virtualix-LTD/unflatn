@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "The opposite of `flatten`",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "NODE_ENV=test node test | tap-difflet && vtest test | tap-difflet && standard",
     "cover": "istanbul cover --report none --print detail test/index.js",
