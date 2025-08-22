@@ -34,7 +34,6 @@
     "Michael Hernandez <michael.hernandez1988@gmail.com>"
   ],
   "dependencies": {
-    "bubleify": "^0.5.1",
     "lodash": "^4.17.21"
   },
   "engines": {},
