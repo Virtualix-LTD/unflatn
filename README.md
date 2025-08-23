@@ -5,7 +5,7 @@ project, which appears to be abandoned.
 
 For existing users of `unflatten`, the call signature remains the same.
 
-[![npm version](./doc/version-badge.svg)](https://www.npmjs.com/package/unflatn)
+[![npm version](https://img.shields.io/npm/v/unflatn.svg?style=flat-square)](https://www.npmjs.com/package/unflatn)
 ![Coverage Status](./doc/coverage-badge.svg)
 [![License](https://img.shields.io/badge/license-ISC-red.svg?style=flat-square)](LICENSE)
 
