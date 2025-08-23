@@ -5,17 +5,10 @@ project, which appears to be abandoned.
 
 For existing users of `unflatten`, the call signature remains the same.
 
-<!-- VDOC.badges travis; standard; npm; coveralls -->
-<!-- DON'T EDIT THIS SECTION (including comments), INSTEAD RE-RUN `vdoc` TO UPDATE -->
-[![Build Status](https://travis-ci.org/vigour-io/unflatten.svg?branch=master)](https://travis-ci.org/vigour-io/unflatten)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![npm version](https://badge.fury.io/js/unflatten.svg)](https://badge.fury.io/js/unflatten)
-[![Coverage Status](https://coveralls.io/repos/github/vigour-io/unflatten/badge.svg?branch=master)](https://coveralls.io/github/vigour-io/unflatten?branch=master)
+[![npm version](./doc/version-badge.svg)](https://www.npmjs.com/package/unflatn)
+![Coverage Status](./doc/coverage-badge.svg)
+[![License](https://img.shields.io/badge/license-ISC-red.svg?style=flat-square)](LICENSE)
 
-<!-- VDOC END -->
-
-<!-- VDOC.jsdoc unflatten -->
-<!-- DON'T EDIT THIS SECTION (including comments), INSTEAD RE-RUN `vdoc` TO UPDATE -->
 #### var obj = unflatten(subject, [opts])
 
 Opposite of `flatten-obj`. Unflattens an object with delimited keys
