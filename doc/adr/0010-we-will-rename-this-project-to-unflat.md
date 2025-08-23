@@ -1,4 +1,4 @@
-# 10. We will rename this project to unflat
+# 10. We will rename this project to unflatn
 
 Date: 2025-08-23
 
@@ -10,7 +10,7 @@ Accepted
 The name "unflatten" is already taken by the source project.
 
 ## Decision
-We will rename this project to `unflat`. The name of the exported function will
+We will rename this project to `unflatn`. The name of the exported function will
 remain the same.
 
 ## Consequences

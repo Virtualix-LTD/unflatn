@@ -1,5 +1,5 @@
 {
-  "name": "unflat",
+  "name": "unflatn",
   "version": "1.0.4",
   "description": "The opposite of `flatten`",
   "main": "lib/index.js",
@@ -11,18 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Virtualix-LTD/unflat.git"
+    "url": "git+https://github.com/Virtualix-LTD/unflatn.git"
   },
   "keywords": [
     "flatten",
     "unflat",
+    "unflatn",
     "unflatten"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Virtualix-LTD/unflat/issues"
+    "url": "https://github.com/Virtualix-LTD/unflatn/issues"
   },
-  "homepage": "https://github.com/Virtualix-LTD/unflat#readme",
+  "homepage": "https://github.com/Virtualix-LTD/unflatn#readme",
   "contributors": [
     "Tony Klinakis <aklin@users.noreply.github.com>",
     {
