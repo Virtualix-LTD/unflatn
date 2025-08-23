@@ -1,4 +1,9 @@
-# unflatten
+# unflatn
+
+A fork of [unflatten][source]. Forked to address security issues in the original
+project, which appears to be abandoned.
+
+For existing users of `unflatten`, the call signature remains the same.
 
 <!-- VDOC.badges travis; standard; npm; coveralls -->
 <!-- DON'T EDIT THIS SECTION (including comments), INSTEAD RE-RUN `vdoc` TO UPDATE -->
@@ -47,3 +52,5 @@ unflatten({
 }
 */
 ```
+
+[source]: https://github.com/vigour-io/unflatten/
