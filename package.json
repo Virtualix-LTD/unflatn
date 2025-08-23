@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
+    "postversion": "make-badges",
     "make-badges": "coverage-badges --style flat --source coverage/coverage-summary.json --output doc/coverage-badge.svg",
     "cover": "istanbul cover --report json-summary --print detail test/index.js",
     "view-cover": "istanbul report html && open ./coverage/index.html",
