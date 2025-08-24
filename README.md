@@ -28,8 +28,6 @@ Opposite of `flatten-obj`. Unflattens an object with delimited keys
 + **objectMode** (*boolean*) - defaults to `false`
 - **return** (*object*) obj - Nested Javascript object
 
-<!-- VDOC END -->
-
 ```javascript
 const unflatten = require('unflatten')
 unflatten({
@@ -44,6 +42,20 @@ unflatten({
   }
 }
 */
+```
+
+## Install
+
+```shell
+npm i unflatn
+```
+
+```shell
+yarn add unflatn
+```
+
+```shell
+pnpm add unflatn
 ```
 
 [source]: https://github.com/vigour-io/unflatten/
