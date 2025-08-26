@@ -19,4 +19,4 @@ export = unflatten;
  *   + **objectMode** (*boolean*) - defaults to `false`
  * @return {object} obj - Nested Javascript object
  */
-declare function unflatten(obj: object, opts: string | boolean | UnflattenOpts): {}
+declare function unflatten(obj: object, opts?: string | boolean | UnflattenOpts): {}
