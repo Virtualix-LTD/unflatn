@@ -51,8 +51,6 @@
     "json-summary"
   ],
   "files": [
-    "lib",
-    "doc/coverage-badge.svg",
-    "doc/version-badge.svg"
+    "lib"
   ]
 }
