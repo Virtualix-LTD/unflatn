@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file according to
 
 This project adheres to Semantic Versioning according to [ADR-12].
 
+## [1.0.8] - 2025-11-20
+
+### Fixed
+
+- Bump js-yaml from 3.14.1 to 3.14.2
+
 ## [1.0.7] - 2025-08-25
 
 ### Changed
@@ -42,6 +48,7 @@ Initial fork from https://github.com/vigour-io/unflatten/
 [ADR-11]: ./doc/adr/0011-we-will-keep-a-changelog.md
 [ADR-12]: ./doc/adr/0012-we-will-use-semantic-versioning.md
 
+[1.0.8]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.7...v1.0.8
 [1.0.7]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.4...v1.0.5
