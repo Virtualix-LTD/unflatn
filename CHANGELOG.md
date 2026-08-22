@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file according to
 
 This project adheres to Semantic Versioning according to [ADR-12].
 
+## [1.0.9] - 2026-08-22
+
+### Fixed
+
+- Bump minimatch, lodash, handlebars, picomatch, js-yaml, brace-expansion
+
 ## [1.0.8] - 2025-11-20
 
 ### Fixed
@@ -48,6 +54,7 @@ Initial fork from https://github.com/vigour-io/unflatten/
 [ADR-11]: ./doc/adr/0011-we-will-keep-a-changelog.md
 [ADR-12]: ./doc/adr/0012-we-will-use-semantic-versioning.md
 
+[1.0.9]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.8...v1.0.9
 [1.0.8]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.7...v1.0.8
 [1.0.7]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/Virtualix-LTD/unflatn/compare/v1.0.5...v1.0.6
